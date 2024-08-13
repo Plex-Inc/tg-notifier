@@ -35,7 +35,7 @@ interface TgNotifierOptions {
     chatIdsFile?: string;
 }
 
-class TgNotifier {
+export class TgNotifier {
     private token: string;
 
     private chatId?: string;
@@ -212,5 +212,3 @@ class TgNotifier {
         }
     }
 }
-
-export default TgNotifier;
