@@ -3,6 +3,9 @@
   "version": "1.1.0",
   "description": "A library for sending messages to Telegram chats",
   "main": "index.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -21,8 +24,11 @@
     "@typescript-eslint/eslint-plugin": "8.1.0",
     "@typescript-eslint/parser": "8.1.0",
     "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "9.1.0",
+    "eslint-plugin-prettier": "5.2.1",
     "husky": "9.1.4",
     "lint-staged": "15.2.9",
+    "prettier": "3.3.3",
     "semantic-release": "24.0.0",
     "typescript": "^5.5.4"
   },
