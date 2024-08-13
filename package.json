@@ -1,6 +1,6 @@
 {
   "name": "@plex-inc/tg-notifier",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A library for sending messages to Telegram chats",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

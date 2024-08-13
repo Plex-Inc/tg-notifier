@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/Plex-Inc/tg-notifier/compare/v1.1.1...v1.1.2) (2024-08-13)
+
+
+### Bug Fixes
+
+* add types to lib ([246a501](https://github.com/Plex-Inc/tg-notifier/commit/246a501d2072702ac674a3047eaf221bf0ee7d9c))
+
 ## [1.1.1](https://github.com/Plex-Inc/tg-notifier/compare/v1.1.0...v1.1.1) (2024-08-13)
 
 
