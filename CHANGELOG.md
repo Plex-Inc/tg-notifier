@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Plex-Inc/tg-notifier/compare/v1.1.0...v1.1.1) (2024-08-13)
+
+
+### Bug Fixes
+
+* update linting & add files to `package.json` ([fed32f9](https://github.com/Plex-Inc/tg-notifier/commit/fed32f9f98638b0ef6cf5ad21af23fe792a05e66))
+
 # [1.1.0](https://github.com/Plex-Inc/tg-notifier/compare/v1.0.0...v1.1.0) (2024-08-13)
 
 
