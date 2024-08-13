@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/Plex-Inc/tg-notifier/compare/v1.1.2...v1.1.3) (2024-08-13)
+
+
+### Bug Fixes
+
+* remove default export ([c0bbac0](https://github.com/Plex-Inc/tg-notifier/commit/c0bbac05e393fb48e31554785e8357dbef707810))
+
 ## [1.1.2](https://github.com/Plex-Inc/tg-notifier/compare/v1.1.1...v1.1.2) (2024-08-13)
 
 
